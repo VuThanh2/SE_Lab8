@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolAppCoreMVC", "SchoolAppCoreMVC\SchoolAppCoreMVC.csproj", "{8B620EB5-718B-EFB4-15DB-F3971E50BC49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolAppCoreRazor", "SchoolAppCoreRazor\SchoolAppCoreRazor.csproj", "{271EFE32-F30D-77F5-22D8-932F9197A307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B620EB5-718B-EFB4-15DB-F3971E50BC49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B620EB5-718B-EFB4-15DB-F3971E50BC49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B620EB5-718B-EFB4-15DB-F3971E50BC49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B620EB5-718B-EFB4-15DB-F3971E50BC49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{271EFE32-F30D-77F5-22D8-932F9197A307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271EFE32-F30D-77F5-22D8-932F9197A307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271EFE32-F30D-77F5-22D8-932F9197A307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271EFE32-F30D-77F5-22D8-932F9197A307}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EF1F459-D487-417F-86B2-E7C1B1809C75}
+	EndGlobalSection
+EndGlobal
